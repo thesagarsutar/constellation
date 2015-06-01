@@ -10,7 +10,7 @@ Device: Microsoft Kinect, Projector
 Language: Processing
 Library: SimpleOpenNI for processing
 
-For more details visit thesagarsutar.me/projects/constellation
+For more details visit [http://thesagarsutar.me/projects/constellation](http://thesagarsutar.me/projects/constellation)
 or contact: sagy26.1991@gmail.com
 
 
